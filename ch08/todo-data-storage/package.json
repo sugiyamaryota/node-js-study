@@ -19,5 +19,10 @@
     "level": "^7.0.0",
     "sqlite3": "^5.0.2",
     "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "sinon": "^11.1.2"
   }
 }
