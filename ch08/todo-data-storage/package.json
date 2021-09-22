@@ -9,7 +9,9 @@
     "leveldb": "node app"
   },
   "jest": {
-    "testMatch": ["**/test/jest/**/*.js"],
+    "testMatch": [
+      "**/test/jest/**/*.js"
+    ],
     "clearMocks": true,
     "restoreMocks": true
   },
